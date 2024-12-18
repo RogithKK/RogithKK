@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Rogith
 
 MCA student @ HICAS
-<img align="right" width="370" height="290" src="https://miro.medium.com/v2/resize:fit:875/1*gReLR6hZjwyBxHmfLN1AVw.gif">
+<img align="right" width="370" height="290" src="https://media3.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
 - 🔭 Here's my [Resume]()                                                 
 - 🌱 I’m currently learning Front end
 - 👯 I’m creative thinker
