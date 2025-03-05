@@ -19,6 +19,7 @@ MCA student @ HICAS
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>    <img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-eclipse-an-integrated-development-environment-used-in-computer-programming-logo-color-tal-revivo.png" alt="external-eclipse-an-integrated-development-environment-used-in-computer-programming-logo-color-tal-revivo"/>   <a href="https://www.udemy.com/certificate/UC-70f37887-1dc3-47dd-8673-d983e8959f8e/"> <img width="50" height="50" src="https://img.icons8.com/color/48/adobe-premiere-pro--v1.png" alt="adobe-premiere-pro--v1"/></a>  <img width="50" height="50" src="https://img.icons8.com/fluency/48/canva.png" alt="canva"/>
 ### 💻 Workspace Spec
  <a href="https://nanoreview.net/en/gpu/geforce-gtx-1650"><img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/></a> <a href="https://nanoreview.net/en/cpu/amd-ryzen-5-5600h"> <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_5600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/></a>
+ <a href="https://wallpapertag.com/wallpaper/middle/9/4/b/84…op-wallpaper-linux-vs-windows-1920x1080-image.jpg"> <img height="30" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
  
  ![LeetCode Stats](https://leetcard.jacoblin.cool/RogithKK?theme=dark&font=Marcellus&ext=contest)
  
