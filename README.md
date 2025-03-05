@@ -13,9 +13,7 @@ MCA student @ HICAS
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" />  
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> 
-<a href="https://rogithkk.github.io/Only-html/" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" style="width:50px; height:50px;" />
-</a>
+<a href="https://rogithkk.github.io/Only-html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" /> </a>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> 
