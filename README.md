@@ -21,6 +21,4 @@ MCA student @ HICAS
  <a href="https://nanoreview.net/en/gpu/geforce-gtx-1650"><img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/></a> <a href="https://nanoreview.net/en/cpu/amd-ryzen-5-5600h"> <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_5600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/></a>
  <a href="https://wallpaper-house.com/data/out/8/wallpaper2you_277014.jpg"> <img height="30" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
  
- ![LeetCode Stats](https://leetcard.jacoblin.cool/RogithKK?theme=dark&font=Marcellus&ext=contest)
- 
 [![Rogith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RogithKK&bg_color=000000&color=faf9fa&line=2ce01f&point=fcfcfc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
