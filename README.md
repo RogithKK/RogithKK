@@ -23,6 +23,6 @@ MCA student @ HICAS
  
 [![Rogith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RogithKK&bg_color=000000&color=faf9fa&line=2ce01f&point=fcfcfc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=dark)
+![Top Langs](https://github.com/RogithKK)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=dark)
+![GitHub Streak](https://github.com/RogithKK)
