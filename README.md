@@ -22,3 +22,7 @@ MCA student @ HICAS
  <a href="https://www.linux.org/pages/download/#"><img height="30" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <a href="https://www.microsoft.com/en-us/windows/windows-11?msockid=0963f55ec5da675f1beae00cc4a566f8&r=1"><img height="30" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
  
 [![Rogith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RogithKK&bg_color=000000&color=faf9fa&line=2ce01f&point=fcfcfc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=dark)
