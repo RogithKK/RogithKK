@@ -2,7 +2,7 @@
 
 MCA student @ HICAS
 <img align="right" width="370" height="290" src="https://media3.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
-- 🔭 Here's my [Resume](https://github.com/HELLBOYi/resume/blob/main/MY%20RESUME%20%281%29.pdf)                                                 
+- 🔭 Here's my [Resume](https://drive.google.com/file/d/1YMlg2OywXu2nNcArOblM5aK4HfPNLVpl/view?usp=drivesdk)                                                 
 - 🌱 I’m currently learning Front end
 - 👯 I’m creative thinker
 - 🤔 I’m Introvert
